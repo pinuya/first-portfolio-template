@@ -6,9 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/pinuya/Portfolio-REMIX?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/pinuya/Portfolio-REMIX?style=for-the-badge)
 
-<img src="https://media.discordapp.net/attachments/1226542179380494359/1238571345730863154/image.png?ex=663fc4f4&is=663e7374&hm=a9329365128d7414628cdad7de790fe0c43d3dabc16ea63495cac193bc86b369&=&format=webp&quality=lossless&width=1550&height=193" alt="Landing page">
-
-> Este e o meu projeto de Portfolio, utilizei o template do curso UI/UX do Origamid, resolvi desenvolve-lo utilizando as linguagens JavaScript/TypeScript/CSS e usei como framework principal o Remix, para o deploy, fiz na Vercel.
+> Este e o meu primeiro projeto de Portfolio, utilizei o template do curso UI/UX do Origamid, resolvi desenvolve-lo utilizando as linguagens JavaScript/TypeScript/CSS e usei como framework principal o Remix, para o deploy, fiz na Vercel.
 
 ### Veja a Doc do Remix + Vite!
 
